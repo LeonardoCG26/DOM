@@ -1,0 +1,150 @@
+#canva {
+    width: 200px;
+    height: 200px;
+    background-color: gray ;
+}
+#button1{
+    position: absolute;
+    box-sizing: border-box;
+    left: 45%;
+    bottom: 210px;
+    padding: 40px 40px 40px 40px;
+    
+}
+#p1 {
+    left: 35%;
+    position: relative;
+    box-sizing: border-box;
+}
+#p2 {
+    left: 45%;
+    position: relative;
+    box-sizing: border-box;
+    bottom: 33px;
+}
+#p3 {
+    left: 55%;
+    position: relative;
+    box-sizing: border-box;
+    bottom: 66px;
+}
+#p4 {
+    left: 35%;
+    position: relative;
+    box-sizing: border-box;
+    top: 120px;
+}
+#p5 {
+    left: 45%;
+    position: relative;
+    box-sizing: border-box;
+    top: 86px;
+}
+#p6 {
+    left: 55%;
+    position: relative;
+    box-sizing: border-box;
+    top: 52px;
+} 
+.square {
+height: 200px;
+width: 200px;
+background-color: blue;
+position: relative;
+box-sizing: border-box;
+left: 45%;
+/* border-radius: 50%; */
+}
+#button2{
+    position: absolute;
+    box-sizing: border-box;
+    left: 47%;
+    bottom: 60%;
+    padding: 40px 40px 40px 40px;
+}
+#button3 {
+    position: absolute;
+    box-sizing: border-box;
+    left: 47%;
+    bottom: 60%;
+    padding: 40px 40px 40px 40px;
+}
+.nocambio1 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 40%;
+    position: relative;
+    box-sizing: border-box;
+    top: 350px;
+}
+.cambio1 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 45%;
+    position: relative;
+    box-sizing: border-box;
+    top: 310px;
+}
+.nocambio2 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 50%;
+    position: relative;
+    box-sizing: border-box;
+    top: 270px;
+}
+.cambio2 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 55%;
+    position: relative;
+    box-sizing: border-box;
+    top: 230px;
+}
+.nocambio3 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 60%;
+    position: relative;
+    box-sizing: border-box;
+    top: 190px;
+}
+.cambio3 {
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    left: 65%;
+    position: relative;
+    box-sizing: border-box;
+    top: 150px;
+}
+
+#miLista1 {
+    position: relative;
+    box-sizing: border-box;
+    left: 40%;
+    top: 200px;
+}
+#miLista2 {
+    position: relative;
+    box-sizing: border-box;
+    left: 60%;
+    top: 55px;
+}
+#button4 {
+    position: relative;
+    box-sizing: border-box;
+    left: 42.5%;
+    top: 200px;
+}
+#button5 {
+    position: relative;
+    box-sizing: border-box;
+    left: 62.5%;
+    top: 55px;
+}
